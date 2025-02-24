@@ -7,8 +7,8 @@ class Matrix_demo(Scene):
                 "stroke_color": GREY,
                 "stroke_width": 1,
             },
-            x_range=[-16,16],
-            y_range=[-16,16],
+            x_range=[-12,12],
+            y_range=[-12,12],
             x_length=20,
             y_length=20
         )
@@ -19,8 +19,8 @@ class Matrix_demo(Scene):
                 "stroke_color": BLUE,
                 "stroke_width": 1,
             },
-            x_range=[-16,16],
-            y_range=[-16,16],
+            x_range=[-12,12],
+            y_range=[-12,12],
             x_length=20,
             y_length=20
         )
