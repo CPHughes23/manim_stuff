@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/3977891868_483583622_223132457.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_1862968402_439729291.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_1228493120_1887433445.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_2723979056_3122501719.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_2834709167_344802735.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_771478150_4157237784.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_2834709167_3618693607.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_435821756_1887433445.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_2506982626_1092602932.mp4'
+file 'file:/Users/caseyhughes/manim_stuff/media/videos/Linear/1080p60/partial_movie_files/Vectors/2852726489_904144539_3822948352.mp4'
